@@ -1,6 +1,6 @@
 <!-- banner principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola,%20soy%20Alejandro!%20🚀&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola,%20soy%20Alejandro!%20&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <!-- Subtítulo o Rol -->
@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+  <a href="www.linkedin.com/in/alejandro-martinez-b12740250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ 
 
 ---
 
@@ -19,7 +18,7 @@
 
 * 🔭 **Proyecto actual:** Desarrollando proyectos y mejorando mis habilidades como desarrollador.
 * 🎯 **Objetivo:** Perfeccionar mi lógica de programación y aprender buenas prácticas de arquitectura.
-* ⚡ **Dato curioso:** ¡Siempre buscando optimizar procesos y automatizar tareas!
+* ⚡ **Dato curioso:** Siempre buscando optimizar procesos y automatizar tareas!
 
 ---
 
@@ -50,7 +49,7 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandrooMartinezz&show_icons=true&theme=tokyonight&locale=es&hide_border=true&order=1" alt="Estadísticas de Alejandro" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandrooMartinezz&show_icons=true&theme=tokyonight&locale=es&hide_border=true&order=1" alt="Mis estadísticas" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandrooMartinezz&layout=compact&theme=tokyonight&locale=es&hide_border=true&order=2" alt="Lenguajes más usados" height="150" />
 </p>
 
