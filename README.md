@@ -5,20 +5,21 @@
 
 <!-- Subtítulo o Rol -->
 <p align="center">
-  <strong>Desarrollador De Aplicaciones Multiplataforma / Apasionado por la Tecnología</strong>
+  <strong>Estudiante de 2º de DAM | Buscando Prácticas (FCT) | Desarrollador Multiplataforma</strong>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/alejandro-martinez-b12740250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
+  <a href="https://www.linkedin.com/in/alejandro-martinez-b12740250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-* 🔭 **Proyecto actual:** Desarrollando proyectos y mejorando mis habilidades como desarrollador.
-* 🎯 **Objetivo:** Perfeccionar mi lógica de programación y aprender buenas prácticas de arquitectura.
-* ⚡ **Dato curioso:** Siempre buscando optimizar procesos y automatizar tareas!
+- 🎓 **Actualmente:** Estudiando 2º del CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM) en Davante-Medac.
+- 💼 **Búsqueda Activa:** Buscando empresa para realizar mis **prácticas (FCT) de marzo a mayo de 2027**, con gran motivación por integrarme en el equipo a largo plazo.
+- 🎯 **Objetivo:** Aportar valor desde el primer día, perfeccionar mi lógica de programación y aprender buenas prácticas de arquitectura y Clean Code.
+- ⚡ **Dato curioso:** ¡Siempre estoy buscando cómo optimizar procesos y automatizar tareas!
 
 ---
 
@@ -46,13 +47,23 @@
 
 ---
 
+## 💻 Proyectos Destacados
+
+- 🚧 **[TuPadel](https://github.com/GnomesDevs/TuPadel)**: Plataforma web y móvil para la gestión y reserva de pistas de pádel, pensada para ayuntamientos y para administradores de fincas o comunidades de vecinos. Proyecto TFG que se encuentra actualmente en desarrollo. Soy el encargado de desarrollar la parte móvil con **Android Studio en lenguaje Kotlin**.
+- 🚧 **[Stellaris](https://github.com/AlejandrooMartinezz/Stellaris)**: Pagina web e-commerce basado en una tienda ficticia de joyería de alta calidad.  **JavaScript, HTML5 y CSS3**. 🔗 **[Ver Demo Online](https://alejandroomartinezz.github.io/Stellaris/)**
+
+---
+
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandrooMartinezz&show_icons=true&theme=tokyonight&locale=es&hide_border=true&order=1" alt="Mis estadísticas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandrooMartinezz&layout=compact&theme=tokyonight&locale=es&hide_border=true&order=2" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandrooMartinezz&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Mis estadísticas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandrooMartinezz&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandrooMartinezz&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AlejandrooMartinezz&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
