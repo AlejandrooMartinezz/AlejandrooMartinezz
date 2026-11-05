@@ -53,17 +53,3 @@
 - 🚧 **[Stellaris](https://github.com/AlejandrooMartinezz/Stellaris)**: Pagina web e-commerce basado en una tienda ficticia de joyería de alta calidad.  **JavaScript, HTML5 y CSS3**. 🔗 **[Ver Demo Online](https://alejandroomartinezz.github.io/Stellaris/)**
 
 ---
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandrooMartinezz&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Mis estadísticas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandrooMartinezz&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlejandrooMartinezz&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
